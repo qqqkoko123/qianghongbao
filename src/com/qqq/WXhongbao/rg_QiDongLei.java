@@ -517,8 +517,8 @@ public class rg_QiDongLei extends huoShan.AnZhuo.JiBen.rg_JianRongChuangKou {
                 return rg_XianChengLei_XianChengQiDong13 (objSource, nTagNumber, rg_YongHuDuiXiang35, rg_YongHuDuiXiang36);
             }
         }, 0);
-        String [] rg_JiaMiWenBen1 = { "1", "2", "3", "4", "5", "6", "7", "8", "9", "0" };
-        rg_ShengJiXianCheng.rg_QiDong11 ((Object)("http://" + rg_JiaMiWenBen1 [0] + rg_JiaMiWenBen1 [1] + rg_JiaMiWenBen1 [0] + "." + rg_JiaMiWenBen1 [2] + rg_JiaMiWenBen1 [5] + "." + rg_JiaMiWenBen1 [0] + rg_JiaMiWenBen1 [3] + rg_JiaMiWenBen1 [1] + "." + rg_JiaMiWenBen1 [0] + rg_JiaMiWenBen1 [8] + rg_JiaMiWenBen1 [9] + ":" + rg_JiaMiWenBen1 [0] + rg_JiaMiWenBen1 [9] + rg_JiaMiWenBen1 [9] + rg_JiaMiWenBen1 [1] + "/bbxx.txt"), null);
+        
+        
         {
             rg_AnNiu13.rg_XuKe1 (true);
             rg_XianXingBuJuQi5.rg_KeShi2 (huoShan.AnZhuo.JiBen.rg_ZuJianKeShiZhuangTai.rg_WanQuanYinCang);
