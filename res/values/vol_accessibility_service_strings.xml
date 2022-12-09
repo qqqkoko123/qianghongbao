@@ -1,0 +1,4 @@
+<resources>
+    <string name="accessibilityservice_description">清清辅助服务详细描述</string>
+	<string name="accessibilityservice_summary">清清辅助服务功能简述</string>
+</resources>
